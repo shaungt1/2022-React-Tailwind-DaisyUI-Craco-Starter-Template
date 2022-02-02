@@ -23,19 +23,23 @@ Run these commands in order to spin up a fully loaded React Tailwind & DaisyUI A
 
 
 <hr/>
+
+
 ## Change themes
 
 Daisy UI lets you theme you app super fast! You can change theme globally or by component and page
 
-- Global theme ```
-Goto public >> index.html >> find data-theme and change the theme variable: <html data-theme="cupcake">
-```
+- Global theme 
+
+*Goto public >> index.html >> find data-theme and change the theme variable:*
+
+```<html data-theme="cupcake">```
 
 
 
-- Page theme ```
-Goto any page or component find data-theme and change the theme variable: <div data-theme="cupcake">
-```
+- Page theme 
+*Goto any page or component find data-theme and change the theme variable: *
+```<div data-theme="cupcake">```
 
 Use Themes
 ----------
